@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic 3D electromagnetic and finite-element electro-thermal and thermo-mechanical verification: full-wave S-parameter extraction, passivity and causality checks, mesh-refinement convergence and steady-state or transient temperature and stress fields. No electromagnetic solver adapter, finite-element thermal runner, S-parameter validator or qualified record schema is released.",
+  "keywords": [
+    "3D electromagnetics",
+    "electro-thermal finite elements",
+    "S-parameter passivity",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Fields",
+  "upload_type": "software"
+}
