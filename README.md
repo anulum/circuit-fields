@@ -12,6 +12,8 @@ CIRCUIT-FIELDS — repository foundation
 
 Circuit Fields is being built as the conditional specialist repository for 3D full-wave electromagnetic extraction (`openEMS`) and finite-element electro-thermal and thermo-mechanical analysis (`Elmer`) across on-chip passives, high-speed interconnects, carrier boards and 3D chiplet stacks — operating completely deterministically without requiring AI. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed electromagnetic solver adapter, finite-element thermal runner, S-parameter validator or qualified record schema.
 
+Circuit Fields is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - an electromagnetic or finite-element thermal solver adapter;
 - a registered runtime record schema;

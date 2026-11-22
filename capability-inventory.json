@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-FIELDS",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "b389fa806e83e3f5cbb1de0ad9a2a2655f64f87b40661e6402950c07ef075cd8"
+    "sha256": "4ded08c3747845c6776e81f181a36ed8e75b4d34dbb8e333379aea07f1878a7d"
   }
 }
